@@ -16,7 +16,7 @@ body {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: teal;
 }
 .nav li {
   float: left;
@@ -27,6 +27,7 @@ body {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  text-shadow: black 0.1px 0.1px 0.2px;
 }
 .nav li a:hover, .dropdown:hover .dropbtn {
   background-color: #555;
@@ -48,6 +49,7 @@ body {
   text-decoration: none;
   display: block;
   text-align: center;
+  text-shadow: black 0.1px 0.1px 0.2px;
 }
 .dropdown-content a:hover {
   background-color: #555;
