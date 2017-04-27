@@ -17,6 +17,7 @@ body {
   padding: 0;
   overflow: hidden;
   background-color: teal;
+  font-family: Arial;
 }
 .nav li {
   float: left;
@@ -42,6 +43,7 @@ body {
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
+  font-family: Arial;
 }
 .dropdown-content a {
   color: white;
