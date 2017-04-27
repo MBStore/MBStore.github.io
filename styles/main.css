@@ -1,5 +1,5 @@
 body {
-  background-color: #1e90ff;
+  background-color: #1E90FF;
 }
 .card {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
@@ -58,4 +58,13 @@ body {
 }
 .dropdown:hover .dropdown-content {
   display: block;
+}
+.price {
+  border: 1px solid black;
+  background-color: #DC143C;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  color: white;
+}
+.price:hover {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }
