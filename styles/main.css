@@ -93,7 +93,8 @@ body {
   font-size: 20px;
 }
 .price li img {
-  width: 33.3%;
+  width: 200px;
+  height: 345px;
 }
 @media only screen and (max-width: 600px) {
   .columns {
